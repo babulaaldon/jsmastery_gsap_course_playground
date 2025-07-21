@@ -54,7 +54,7 @@ function renderChart() {
       scaleY: 1,
       duration: 2.4,
       ease: 'elastic.out(1, 1.23)',
-      delay: i * 0.13,
+      delay: i * 0.2,
     })
   });
 }
